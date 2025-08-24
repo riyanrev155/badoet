@@ -7,10 +7,17 @@
     "allowOffline": false
   },
   {
-    "id": "1ac400319c0eaa5b",
-    "username": "almi",
-    "password": "almi111",
-    "expiresAt": "2025-09-24",
+    "id": "17bcd5dc94254e62",
+    "username": "maul",
+    "password": "maul111",
+    "expiresAt": "2025-08-26",
+    "allowOffline": false
+  },
+  {
+    "id": "3864578e07fb7c5c",
+    "username": "chacu",
+    "password": "chacu111",
+    "expiresAt": "2025-08-26",
     "allowOffline": false
   }
 ]
