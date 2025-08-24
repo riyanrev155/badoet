@@ -33,5 +33,5 @@
     "password": "tester111",
     "expiresAt": "2025-08-27",
     "allowOffline": false
-  },
+    }
 ]
