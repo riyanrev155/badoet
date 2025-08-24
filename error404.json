@@ -26,5 +26,12 @@
     "password": "gedon123",
     "expiresAt": "2025-09-25",
     "allowOffline": false
-  }
+  },
+    {
+    "id": "d4e82fb2a8c9ef6f",
+    "username": "janka",
+    "password": "tester111",
+    "expiresAt": "2025-08-27",
+    "allowOffline": false
+  },
 ]
