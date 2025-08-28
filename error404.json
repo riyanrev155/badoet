@@ -41,5 +41,12 @@
     "password": "jefri111",
     "expiresAt": "2025-09-29",
     "allowOffline": false
+  },
+  {
+    "id": "b914c804846ea507",
+    "username": "yanto",
+    "password": "yanto666",
+    "expiresAt": "2025-09-30",
+    "allowOffline": false
   }
 ]
