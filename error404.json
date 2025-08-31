@@ -42,6 +42,31 @@
     "expiresAt": "2025-09-29",
     "allowOffline": false
   },
+
+ {
+    "id": "61db727e34db68df",
+    "username": "dimas",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    },
+
+  {
+    "id": "7a91186c81bac658",
+    "username": "dimsthor",
+    "password": "dimas666",
+    "expiresAt": "2026-08-23",
+    "allowOffline": false
+    },
+
+  {
+    "id": "f92d4e05fb6750ba",
+    "username": "fadly",
+    "password": "fadly123",
+    "expiresAt": "2096-08-23",
+    "allowOffline": false
+  },
+  
   {
     "id": "b914c804846ea507",
     "username": "yanto",
