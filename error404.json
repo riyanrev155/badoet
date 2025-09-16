@@ -73,5 +73,13 @@
     "password": "yanto666",
     "expiresAt": "2025-10-08",
     "allowOffline": false
-  }
+  },
+
+  {
+    "id": "c532ac9f6c4b5ec4",
+    "username": "vigar",
+    "password": "vigar",
+    "expiresAt": "2025-10-17",
+    "allowOffline": false
+    }
 ]
