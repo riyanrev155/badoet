@@ -81,5 +81,12 @@
     "password": "vigar",
     "expiresAt": "2025-10-17",
     "allowOffline": false
+    },
+    {
+    "id": "a8d7f77bee77e9cd",
+    "username": "indra366",
+    "password": "indra366",
+    "expiresAt": "2025-10-18",
+    "allowOffline": false
     }
 ]
