@@ -109,6 +109,13 @@
     "password": "eko",
     "expiresAt": "2025-09-28",
     "allowOffline": false
+  },
+  {
+    "id": "a04a5645bb570a7c",
+    "username": "zaqi",
+    "password": "zaqi",
+    "expiresAt": "2025-10-25",
+    "allowOffline": false
   }
 ]
 
