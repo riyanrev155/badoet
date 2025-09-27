@@ -130,6 +130,14 @@
     "password": "dandi",
     "expiresAt": "2025-09-29",
     "allowOffline": false
-  }
+  },
+    
+  {
+    "id": "d7e10ecee86e606c",
+    "username": "dendy",
+    "password": "dendy",
+    "expiresAt": "2025-10-29",
+    "allowOffline": false
+    }
 ]
 
