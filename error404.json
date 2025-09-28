@@ -130,8 +130,14 @@
     "password": "dandi",
     "expiresAt": "2025-09-29",
     "allowOffline": false
-  }
+  },
     
-  
+  {
+    "id": "5e42fe9e052e37c7",
+    "username": "dodigrab",
+    "password": "dodigrab",
+    "expiresAt": "2025-10-29",
+    "allowOffline": false
+  }
 ]
 
