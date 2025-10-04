@@ -138,6 +138,13 @@
     "password": "dodigrab",
     "expiresAt": "2025-10-29",
     "allowOffline": false
+  },
+  {
+    "id": "c733a05a27c430b4",
+    "username": "abdul",
+    "password": "abdul",
+    "expiresAt": "2025-11-07",
+    "allowOffline": false
   }
 ]
 
