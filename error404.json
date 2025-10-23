@@ -190,6 +190,13 @@
     "password": "riza",
     "expiresAt": "2095-11-17",
     "allowOffline": false
+  },
+  {
+    "id": "bb152599084ff55e",
+    "username": "bangjek",
+    "password": "bangjek",
+    "expiresAt": "2025-12-24",
+    "allowOffline": false
   }
 ]
 
