@@ -218,6 +218,13 @@
     "password": "andrigrab",
     "expiresAt": "2025-11-27",
     "allowOffline": false
-        }
+        },
+  {
+    "id": "12d5cf0f88ed95fa",
+    "username": "ruhin",
+    "password": "ruhin",
+    "expiresAt": "2025-11-29",
+    "allowOffline": false
+  }
 ]
 
