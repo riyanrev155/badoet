@@ -254,6 +254,13 @@
     "password": "saim",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "5b5354adeed9ff07",
+    "username": "adisfo",
+    "password": "adisfo",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
 
