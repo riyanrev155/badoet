@@ -514,6 +514,13 @@
     "password": "loginv",
     "expiresAt": "2025-12-30",
     "allowOffline": false
+  },
+  {
+    "id": "c8e3d0a5fee0cc58",
+    "username": "rudigrab01",
+    "password": "loginh",
+    "expiresAt": "2026-01-01",
+    "allowOffline": false
   }
 ]
 
