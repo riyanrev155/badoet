@@ -286,13 +286,6 @@
     "expiresAt": "2025-12-06",
     "allowOffline": false
   },
-  {
-    "id": "d07efae90b64c0d0",
-    "username": "syarifudin",
-    "password": "loginv",
-    "expiresAt": "2025-01-07",
-    "allowOffline": false
-  }, 
   
   {
     "id": "a6c07f26ecb946dd",
@@ -534,6 +527,13 @@
     "username": "rifqigrab",
     "password": "loginr",
     "expiresAt": "2026-01-05",
+    "allowOffline": false
+  },
+    {
+    "id": "d07efae90b64c0d0",
+    "username": "syarifudin",
+    "password": "loginv",
+    "expiresAt": "2026-01-10",
     "allowOffline": false
   }
 ]
