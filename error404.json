@@ -423,5 +423,12 @@
     "password": "loginv",
     "expiresAt": "2026-01-08",
     "allowOffline": false
+  },
+  {
+    "id": "ec43d60674cb254d",
+    "username": "danigrab",
+    "password": "loginv",
+    "expiresAt": "2026-01-09",
+    "allowOffline": false
   }
 ]
