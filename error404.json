@@ -6,27 +6,7 @@
     "expiresAt": "2026-08-25",
     "allowOffline": false
   },
-  {
-    "id": "17bcd5dc94254e62",
-    "username": "maul",
-    "password": "maul111",
-    "expiresAt": "2025-09-25",
-    "allowOffline": false
-  },
-  {
-    "id": "3ed14d7c36b8118e",
-    "username": "chacu",
-    "password": "chacu111",
-    "expiresAt": "2025-11-12",
-    "allowOffline": false
-  },
-  {
-    "id": "0f9fc1ba83952477",
-    "username": "gedon123",
-    "password": "gedon123",
-    "expiresAt": "2025-09-25",
-    "allowOffline": false
-  },
+
     {
     "id": "236ad1216bee5d8f",
     "username": "kamal",
@@ -35,14 +15,6 @@
     "allowOffline": false
     },
   
-  {
-    "id": "64a69ba8eb06cdb1",
-    "username": "jefri",
-    "password": "jefri111",
-    "expiresAt": "2025-09-29",
-    "allowOffline": false
-  },
-
  {
     "id": "61db727e34db68df",
     "username": "dimas",
@@ -66,14 +38,6 @@
     "expiresAt": "2096-08-23",
     "allowOffline": false
   },
-  
-  {
-    "id": "b914c804846ea507",
-    "username": "yanto",
-    "password": "yanto666",
-    "expiresAt": "2025-11-08",
-    "allowOffline": false
-  },
 
   {
     "id": "c532ac9f6c4b5ec4",
@@ -82,13 +46,7 @@
     "expiresAt": "2025-12-17",
     "allowOffline": false
     },
-    {
-    "id": "a8d7f77bee77e9cd",
-    "username": "indra366",
-    "password": "indra366",
-    "expiresAt": "2025-10-18",
-    "allowOffline": false
-    },
+    
     {
     "id": "8343366ba61b9217",
     "username": "ganjar",
@@ -103,20 +61,7 @@
     "expiresAt": "2025-12-18",
     "allowOffline": false
   },
-  {
-    "id": "ea293661d9219542",
-    "username": "eko",
-    "password": "eko",
-    "expiresAt": "2025-09-28",
-    "allowOffline": false
-  },
-  {
-    "id": "a04a5645bb570a7c",
-    "username": "zaqi",
-    "password": "zaqi",
-    "expiresAt": "2025-10-25",
-    "allowOffline": false
-  },
+
 {
     "id": "e6503aa5bbf690a9",
     "username": "jamil",
@@ -124,44 +69,14 @@
     "expiresAt": "2025-12-27",
     "allowOffline": false
 },
-  {
-    "id": "03351dfa65dde26a",
-    "username": "dandi",
-    "password": "dandi",
-    "expiresAt": "2025-10-29",
-    "allowOffline": false
-  },
-
     {
     "id": "cf500e2043a16b3e",
     "username": "taufik",
     "password": "taufik",
-    "expiresAt": "2025-12-08",
+    "expiresAt": "2026-01-10",
     "allowOffline": false
   },
-  {
-    "id": "79df8a16c1cf9ba6",
-    "username": "dodigrab",
-    "password": "dodigrab",
-    "expiresAt": "2025-11-29",
-    "allowOffline": false
-  },
-  {
-    "id": "c733a05a27c430b4",
-    "username": "abdul",
-    "password": "abdul",
-    "expiresAt": "2025-11-07",
-    "allowOffline": false
-  },
-  
-  {
-    "id": "244960ac0c569d29",
-    "username": "adegacor",
-    "password": "adegacor",
-    "expiresAt": "2025-11-11",
-    "allowOffline": false
-  },
-  
+
   {
     "id": "8c6c54f2274a96a0",
     "username": "grab",
@@ -212,13 +127,7 @@
     "expiresAt": "2025-12-27",
     "allowOffline": false
       },
-        {
-    "id": "515fc1e4869acd4f",
-    "username": "andrigrab",
-    "password": "andrigrab",
-    "expiresAt": "2025-11-27",
-    "allowOffline": false
-        },
+
   {
     "id": "12d5cf0f88ed95fa",
     "username": "ruhin",
@@ -248,20 +157,6 @@
     "allowOffline": false
   },
   
-  {
-    "id": "82f64c9e6a451d34",
-    "username": "saim",
-    "password": "saim",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  },
-  {
-    "id": "5b5354adeed9ff07",
-    "username": "adisfo",
-    "password": "adisfo",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  },
   
   {
     "id": "65130add84f2e510",
@@ -278,14 +173,6 @@
     "expiresAt": "2025-12-05",
     "allowOffline": false
   }, 
-  
-  {
-    "id": "49737b6fd3df2497",
-    "username": "nugraha",
-    "password": "loginv",
-    "expiresAt": "2025-12-06",
-    "allowOffline": false
-  },
   
   {
     "id": "a6c07f26ecb946dd",
@@ -306,7 +193,7 @@
       "id": "0cf900768f463f7f",
     "username": "ibnugrab",
     "password": "loginv",
-    "expiresAt": "2025-12-08",
+    "expiresAt": "2026-12-10",
     "allowOffline": false
   },
     {
@@ -430,13 +317,7 @@
     "expiresAt": "2025-12-25",
     "allowOffline": false
   },
-  {
-"id": "8723f225b1355af5",
-    "username": "jamil",
-    "password": "jamil",
-    "expiresAt": "2025-11-27",
-    "allowOffline": false
-  },
+  
   {
     "id": "becfa4637b8496ee",
     "username": "aminggrab",
